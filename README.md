@@ -27,7 +27,7 @@ If everything is OK, simply do `make save_file.gbc`. This will create the ROM, w
 ### Required
 
 * A Game Boy Color (monochrome Game Boys don't have enough RAM, and Game Boy Advance/SP doesn't play nice with GB/C cartswap)
-* A flashcart (I'm using an )
+* A flashcart (I'm using an [Everdrive GB X5](https://krikzz.com/store/home/47-everdrive-gb.html))
 * The cartridge you wish to inject the save file into
 
 ### Uh... Execution?
